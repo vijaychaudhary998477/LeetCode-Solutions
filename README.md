@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0704-binary-search](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
