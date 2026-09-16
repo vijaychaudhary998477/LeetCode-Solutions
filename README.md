@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
