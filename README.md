@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0509-fibonacci-number](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vijaychaudhary998477/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
